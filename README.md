@@ -5,7 +5,8 @@
 
 
 <h2> Details </h2>
-Dependency: vrp, mythicN<br>
+Dependency: vrp, mythicP<br>
+Download for mythicP: https://github.com/HalCroves/mythic_progbar <br>
 Resmon in idle: 0.0ms <br>
 Resmon while using: 0.01-0.03<br>
 
