@@ -2,6 +2,9 @@
 <h1>[VRP] PIZZA JOB [UI] </h1>
 <h2> Contact: Karma  _Andrew_#5753 </h2>
 <h4> If u find any issues let me know </h4>
+<br><br>
+<h2>Preview: https://www.youtube.com/watch?v=WQciccJG738 </h2>
+<br><br>
 
 
 <h2> Details </h2>
