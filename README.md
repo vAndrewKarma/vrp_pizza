@@ -1,4 +1,6 @@
 # vrp_pizza
+Little update, some errors and some bugs were fixed, i added the mapping to download.
+
 <h1>[VRP] PIZZA JOB [UI] </h1>
 <h2> Contact: Karma  _Andrew_#5753 </h2>
 <h4> If u find any issues let me know </h4>
