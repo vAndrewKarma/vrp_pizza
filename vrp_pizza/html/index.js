@@ -1,4 +1,5 @@
 $(document).ready(function(){
+	
     $(".contract1").hide();
 $(".textcontr").hide();
 $(".comenzi").hide() 
@@ -52,7 +53,7 @@ $("#hardei").hide(500);
         $('#hasalam5').fadeIn(100);
         $('strong').empty();
         $("#amterminat").fadeIn(2000)
-        $('strong').append(totalPrice);
+       
         $('strong').append("$");
     });
 
@@ -68,7 +69,6 @@ $("#hardei").hide(500);
    
 
 
-        $('strong').append(totalPrice);
         $('strong').append("$");
 
     });
@@ -87,7 +87,7 @@ $("#hardei").hide(500);
         $('.mushroom').fadeIn(100);
         $('strong').empty();
      
-        $('strong').append(totalPrice);
+      
         $('strong').append("$");
 $("mushroom").draggable();
     });
